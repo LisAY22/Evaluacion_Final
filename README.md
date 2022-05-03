@@ -31,4 +31,4 @@ Todo cambiara a partir de eso momento, ya que el señor oscuro ha regresado.
 ![Imagen1](https://imagenes.elpais.com/resizer/gRWfJyf2Fit-r7h4ppKKGmY4J88=/414x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/Z4RWLMAFIJWXSNMWEESOBRWKVA.jpg)
 ![Imagen2](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dragon_Challenge_19.jpg/800px-Dragon_Challenge_19.jpg)
 ## ¿A quién mas le gusta Harry Potter?
-Harry Potter le gusta a mi amiga @Karol/Castro
+Harry Potter le gusta a mi amiga @Karmaz-29
