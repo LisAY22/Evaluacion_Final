@@ -1,7 +1,7 @@
 # Harry Potter Y El Cáliz De Fuego
 Es la cuarta pelicula de la saga de películas de Harry Potter. Fue estrenada el 18 de noviembre de 2005. :grinning:
 ## Sinopsis
-La trama de esta pelicula se desarrolla durante el "Torneo de los tres magos". :cup:  
+La trama de esta pelicula se desarrolla durante el "Torneo de los tres magos". 
 En dicho torneo participarán las tres escuelas de magia más famosas de Europa: Hogwarts, Beauxbatons y Durmstrang. 
 La forma de ingresar al torneo es lanzando un pergamino con el nombre del participante al caliz de fuego. En la noche en que se dan a conocer a los representantes de cada colegio por el cáliz de fuego resultan electos Viktor Krum de Durmstrang, Fleur Delacour de Beauxbatons y Cedric Diggory de Hogwarts, sin embargo el cáliz sorpresivamente saca otro pergamino con el nombre de Harry Potter. 
 A excepción de Hermione, todos piensas que Harry encontro la forma de participar en el torneo, ya que solo los chicos mayores podian partipar, por lo que todos le dan la espalda y le dejan de hablar. :zipper_mouth_face:
@@ -20,15 +20,15 @@ Todo cambiara a partir de eso momento, ya que el señor oscuro ha regresado.
 ## Soundtrack - ¿Cuáles he escuchado?
 - [x] The Story Continues	
 - [x] Frank Dies	
-- [] The Quidditch World Cup
+- [ ] The Quidditch World Cup
 - [x] The Dark Mark
-- [] Foreign Visitors Arrive
-- [] The Goblet of Fire
-- [] Rita Skeeter
-- [] Sirius Fire
-- [] Harry Sees Dragons
+- [ ] Foreign Visitors Arrive
+- [ ] The Goblet of Fire
+- [ ] Rita Skeeter
+- [ ] Sirius Fire
+- [ ] Harry Sees Dragons
 ## Imágenes
-![Imagen1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm372126.html&psig=AOvVaw1sWRUoAPQjm0hJP_eKksAv&ust=1651677908396000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCND16OzRw_cCFQAAAAAdAAAAABAI)
+![Imagen1](https://imagenes.elpais.com/resizer/gRWfJyf2Fit-r7h4ppKKGmY4J88=/414x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/Z4RWLMAFIJWXSNMWEESOBRWKVA.jpg)
 ![Imagen2](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dragon_Challenge_19.jpg/800px-Dragon_Challenge_19.jpg)
 ## ¿A quién mas le gusta Harry Potter?
-Harry Potter le gusta a mi amiga @Karmaz-29
+Harry Potter le gusta a mi amiga @Karol Castro
